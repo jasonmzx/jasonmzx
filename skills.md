@@ -30,10 +30,9 @@
 <img src="https://img.shields.io/badge/-pip-%233775A9?logo=PyPi&logoColor=white">
 <img src="https://img.shields.io/badge/-FastAPI-%23009688?logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django">
-<img src="https://img.shields.io/badge/-SQLAlchemy-%23CC2927">
 <img src="https://img.shields.io/badge/-requests-%2383B81A">
 <img src="https://img.shields.io/badge/-Selenium-%2343B02A?logo=Selenium&logoColor=white">
-
+<img src="https://img.shields.io/badge/-Tkinter-%230094F5">
 </div>
 
 <ul>
@@ -41,15 +40,12 @@
   <li>Knowledgable about Py's standard library & various language features </li>
   <br></br>
   <li>Built REST APIs using FastAPI & PyDantic's Class model, alongside SQL-Like DB </li>
-  <li>Used SQL-like databases alongside Python via connectors and SQLAlchemy as an ORM</li>
-  <li>Implemented secure authentication & data encryption on production level REST API</li>
-  <li> Using FastAPI , fastapi-login lib , bcrypt & hashlib </li>
+  <li>Used SQL-like databases alongside Python via connectors and have basic experience in SQLAlchemy </li>
+  <li>Implemented secure authentication & data encryption on production level REST API using FastAPI , fastapi-login lib , bcrypt & hashlib</li>
   <br></br>
   <li>Built simple full-stack webapps using Django framework, Database ORMs & Jinja templating </li>
   <li>Built small GUI apps using tkinter & small games using PyGame </li>
-  <li>Webscraping & API Manipulation, Editing request parameters, parsing HTML / MD</li>
-  <li> Using Py's requests lib , urllib3 , BeautifulSoup & Selenium </li>
-  <li>Wrote basic TCP Packet sniffer script using ScaPy for my Minecraft server</li>
+  <li>Webscraping & API Manipulation, Editing request parameters, parsing HTML & XML via BeautifulSoup & requests</li>
   <br></br>
 
 </ul> 
