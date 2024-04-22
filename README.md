@@ -1,5 +1,5 @@
 ## Hey! I'm Jason Manarroo, 
-* I'm a *Software Engineering Student* located in Canada 🇨🇦, I'm very interested in Computer Systems, from the electrical level, all the way up to the high-level stacks !
+* From Toronto, Canada 🇨🇦, I'm very interested in Computer Systems, from the electrical level, all the way up the stack!
 
 - Currently attending [Ontario Tech University](https://ontariotechu.ca/) persuing [Software Engineering](https://ontariotechu.ca/programs/undergraduate/engineering/software-engineering/index.php) at the undergraduate level. (I'm currently going into my **final year (Y4)**)
 
